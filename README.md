@@ -3,7 +3,7 @@
 
 ## Task: Develop a dataframes.
 
-## Action: Developed an interactive dataframes using different tables showing project name, employee name and designation levels to provide real-time insights about performance and bonuses applied. 
+## Action: Designed and implemented an interactive data analytics solution using Python (numpy). Combined and processed multiple datasets containing employee details, project information, designation levels, and performance metrics to evaluate bonus distribution. 
 
-## Result: Shared actionable insights about performance of each employee to decide how much bonus will apply and decide whether to promote the employee or to demote the employee.
+## Result: Delivered real-time, actionable insights that helped leadership monitor workforce performance and ensure efficient reward management.
 
